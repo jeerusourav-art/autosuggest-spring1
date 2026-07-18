@@ -1,3 +1,18 @@
 h1{
     color: red;
 }
+
+.navbar{
+    background-color: bisque;
+    padding: 2px;
+    margin: 20px;
+    border-width: 2px;
+    text-align: center;
+    font-size: large;
+}
+
+.navbar a{
+   
+    font-family: 'Courier New', Courier, monospace;
+}
+
